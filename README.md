@@ -15,7 +15,8 @@
 
 ## 2. 상세 기능 설명
 
-![스크린샷 2025-06-09 034132](https://github.com/user-attachments/assets/ee17fa08-f088-4fab-9e31-8f1bf191e8fd)
+![스크린샷 2025-06-09 041408](https://github.com/user-attachments/assets/41595c47-82e6-460c-9b58-7fb649210429)
+
 
 
 ### 2.1. 기본 게임 기능
